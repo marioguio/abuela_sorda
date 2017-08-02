@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  erb :index3
+  erb :abuela
 end
 
 post '/' do
